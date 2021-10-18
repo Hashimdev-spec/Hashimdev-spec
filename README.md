@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hashimdev-spec
 - 👀 I’m interested in ... Javascript
-- 🌱 I’m currently learning ... Nextjs 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... ReactNative,Electron Redux and Nextjs
+- 💞️ I’m looking to collaborate on React Projects
 - 📫 How to reach me ... via this https://solo.to/hashimdev
 
 <!---
