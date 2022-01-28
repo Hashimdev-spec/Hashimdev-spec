@@ -1,8 +1,8 @@
 ![Web Developer](https://pbs.twimg.com/profile_banners/845792568285761537/1642249897/600x200)
 
-### Hi there 👋, my name is Hashim
+### Hashim
 
-I am a Passionate Web-Developer, I love Building Things and I thrive on learning new skills and meeting people that share the same interest with me, and the fact that I will sit on my desk and build any website or an Application that comes into my head is so gratifying, every day I found this Entertaining as I uncover more ways to improve my development skills.w
+I am a Hashim Aliyu Hashim, I enjoy learning languages and Frameworks such as React and React-Native,and some wordress, I thrive on learning new skills and meeting people that share the same interest with me, and the fact that I will sit on my desk and build any website or an Application that comes into my head is so gratifying, every day I found this Entertaining as I uncover more ways to improve my development skills.
 
 ## Skills & Experience
 🔆REACT
