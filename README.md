@@ -1,6 +1,6 @@
-### Hi there 👋, my name is Hashim
-#### Web Developer
 ![Web Developer](https://pbs.twimg.com/profile_banners/845792568285761537/1642249897/600x200)
+
+### Hi there 👋, my name is Hashim
 
 I am a Passionate Web-Developer, I love Building Things and I thrive on learning new skills and meeting people that share the same interest with me, and the fact that I will sit on my desk and build any website or an Application that comes into my head is so gratifying, every day I found this Entertaining as I uncover more ways to improve my development skills.w
 
