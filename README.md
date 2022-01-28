@@ -1,7 +1,5 @@
 ### Hi there 👋, my name is Hashim
 #### Web Developer
-![Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
 I am a Passionate Web-Developer, I love Building Things and I thrive on learning new skills and meeting people that share the same interest with me, and the fact that I will sit on my desk and build any website or an Application that comes into my head is so gratifying, every day I found this Entertaining as I uncover more ways to improve my development skills.w
 
 Skills:  REACT / JS / HTML / CSS/PYTHON
