@@ -4,9 +4,14 @@
 
 I am a Passionate Web-Developer, I love Building Things and I thrive on learning new skills and meeting people that share the same interest with me, and the fact that I will sit on my desk and build any website or an Application that comes into my head is so gratifying, every day I found this Entertaining as I uncover more ways to improve my development skills.w
 
-Skills:  REACT / JS / HTML / CSS/PYTHON
+## Skills & Experience
+🔆REACT
+✔ JS 
+🖥HTML
+🤳🏻CSS
+🎯PYTHON
 
-- 🔭 I’m currently working on this page. 
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Hashimdev-spec)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Hashimdev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Hashimdev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/Hashimdev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/Hashimdev)  
