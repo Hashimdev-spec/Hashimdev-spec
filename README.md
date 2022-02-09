@@ -1,4 +1,4 @@
-![Web Developer](https://github.com/Hashimdev-spec/Hashimdev-spec/blob/main/Blue%20Modern%20Personal%20Fashion%20Designer%20Twitter%20Header%20(Banner%20(Landscape))%20(1).png?raw=true)
+ <img src="https://github.com/Hashimdev-spec/Hashimdev-spec/blob/main/Blue Modern Personal Fashion Designer Twitter Header (Banner (Landscape)) (4).png" width="100%" />
 
 ### Hi, 👋🏻 it's Hashim
 
