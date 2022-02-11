@@ -2,7 +2,7 @@
 
 ### Hi, 👋🏻 it's Hashim
 
-Hi, i'm Hashim Aliyu Hashim also goes by Hashimdev, i am a Passionate Web Deveoper I enjoy learning languages and Frameworks such as React and React-Native, and some Wordpress, I thrive on learning new skills and meeting people that share the same interest with me, and the fact that I will sit on my desk and build any website or an Application that comes into my head is so gratifying, every day I found this Entertaining as I uncover more ways to improve my development skills.
+Hi, i'm Hashim Aliyu Hashim also goes by Hashimdev, i am a Passionate Web Deveoper I enjoy learning languages and Frameworks such as React and React-Native and any other javascript related, I thrive on learning new skills and meeting people that share the same interest with me, and the fact that I will sit on my desk and build any website or an Application that comes into my head is so gratifying, every day I found this Entertaining as I uncover more ways to improve my development skills.
 
  ## You can find me here 
 <p align="center">
