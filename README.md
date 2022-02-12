@@ -27,6 +27,4 @@ Hi, i'm Hashim Aliyu Hashim also goes by Hashimdev, i am a Passionate Web Deveop
 
 Desktop View             |  Mobile View
 :-------------------------:|:-------------------------:
-![](https://raw.githubusercontent.com/Hashimdev-spec/Music-Player--Html-Css-Javascript/main/Desktop.png)  |  ![](./mobile.png)
-
-
+![](https://raw.githubusercontent.com/Hashimdev-spec/Music-Player--Html-Css-Javascript/main/Desktop.png)  |  ![](https://raw.githubusercontent.com/Hashimdev-spec/Music-Player--Html-Css-Javascript/main/mobile.png)
