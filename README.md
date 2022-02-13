@@ -29,6 +29,9 @@ Hi, i'm Hashim Aliyu Hashim also goes by Hashimdev, i am a Passionate Web Deveop
 ![hippo](https://github.com/Hashimdev-spec/Hashimdev-spec/blob/main/covid19.gif)
 
 
+ ## Some of the Projects i Have worked on please give it a star 🌟
+
+
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
 |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://raw.githubusercontent.com/Hashimdev-spec/Password-saver/master/Desktopv.png">  blah |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://raw.githubusercontent.com/Hashimdev-spec/Password-saver/master/mobile1.png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://raw.githubusercontent.com/Hashimdev-spec/Music-Player--Html-Css-Javascript/main/Desktop.png">|
