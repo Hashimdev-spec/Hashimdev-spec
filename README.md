@@ -29,25 +29,11 @@ Hi, i'm Hashim Aliyu Hashim also goes by Hashimdev, i am a Passionate Web Deveop
 ![hippo](https://github.com/Hashimdev-spec/Hashimdev-spec/blob/main/covid19.gif)
 
 
-
-     ## Password Saver with React js
-![](https://raw.githubusercontent.com/Hashimdev-spec/Password-saver/master/mobile1.png) 
-
-
-Desktop View             |  Mobile View
-:-------------------------:|:-------------------------:
-![](https://raw.githubusercontent.com/Hashimdev-spec/Music-Player--Html-Css-Javascript/main/Desktop.png)  |  ![](https://raw.githubusercontent.com/Hashimdev-spec/Music-Player--Html-Css-Javascript/main/mobile.png)
-
-
-Desktop View             |  Mobile View
-:-------------------------:|:-------------------------:
-![](https://raw.githubusercontent.com/Hashimdev-spec/Weather-Forecast--openweather-Api/main/desktop.png)  |  ![](https://raw.githubusercontent.com/Hashimdev-spec/Weather-Forecast--openweather-Api/main/mobile.png)
-
-
-            I Cloned the Linkedin website ✨🎉         
-:-------------------------:|:-------------------------:
-
-![](https://raw.githubusercontent.com/Hashimdev-spec/Linkedin-Clone-Reactjs/main/Linkeinclone.png)
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://raw.githubusercontent.com/Hashimdev-spec/Password-saver/master/Desktopv.png">  blah |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://raw.githubusercontent.com/Hashimdev-spec/Password-saver/master/mobile1.png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://raw.githubusercontent.com/Hashimdev-spec/Music-Player--Html-Css-Javascript/main/Desktop.png">|
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://raw.githubusercontent.com/Hashimdev-spec/Music-Player--Html-Css-Javascript/main/mobile.png">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://raw.githubusercontent.com/Hashimdev-spec/Weather-Forecast--openweather-Api/main/desktop.png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://raw.githubusercontent.com/Hashimdev-spec/Weather-Forecast--openweather-Api/main/mobile.png">|
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://raw.githubusercontent.com/Hashimdev-spec/Linkedin-Clone-Reactjs/main/Linkeinclone.png">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|
 
 
 
