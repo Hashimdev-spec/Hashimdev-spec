@@ -20,6 +20,9 @@ Hi, i'm Hashim Aliyu Hashim also goes by Hashimdev, i am a Passionate Web Deveop
 🖥HTML
 🤳🏻CSS
 🎯PYTHON
+🎗 Svelte
+🎡Nextjs
+
 
 ## Work Example
 
@@ -33,3 +36,12 @@ Desktop View             |  Mobile View
 Desktop View             |  Mobile View
 :-------------------------:|:-------------------------:
 ![](https://raw.githubusercontent.com/Hashimdev-spec/Weather-Forecast--openweather-Api/main/desktop.png)  |  ![](https://raw.githubusercontent.com/Hashimdev-spec/Weather-Forecast--openweather-Api/main/mobile.png)
+
+
+            I Cloned the Linkedin website ✨🎉         
+:-------------------------:|:-------------------------:
+
+![](https://raw.githubusercontent.com/Hashimdev-spec/Linkedin-Clone-Reactjs/main/Linkeinclone.png)
+
+
+
