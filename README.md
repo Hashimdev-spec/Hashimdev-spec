@@ -29,7 +29,7 @@ Hi, i'm Hashim Aliyu Hashim also goes by Hashimdev, i am a Passionate Web Deveop
 ![hippo](https://github.com/Hashimdev-spec/Hashimdev-spec/blob/main/covid19.gif)
 
 
- ## Some of the Projects i Have worked on please give it a star 🌟
+ ## Some are of the Projects i Have worked on please give it a star 🌟
 
 
 | | | |
