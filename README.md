@@ -16,7 +16,7 @@
 <a href="https://twitter.com/Hashimdev">
   <img align="left" alt="Hashimdev | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="(https://www.linkedin.com/in/hashim-aliyu-hashim-37bab2146/)">
+<a href="https://www.linkedin.com/in/hashim-aliyu-hashim-37bab2146/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
