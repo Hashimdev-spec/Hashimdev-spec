@@ -56,9 +56,7 @@ Other        7 mins          ░░░░░░░░░░░░░░░░░
 
 ## 🚀 Quick start
 
-<p align="center">
-  <img alt="Hashimcodes" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeYyU6O3AAbnZPRgAkzax_P1d7zJBlF4NiD3KL_DP2imTYNIu_h0cgIewC57-HVtadd-1IFoehAxkjmx0lgFT3zE9AorheOgiZwKVtYT2KV7lb4iNMUnY8WkltqJtcsLvoJygZ_s92DcLbxg1aLYJaQZmj9diZws_fIEmK9OZFADkqvaf5j9uGdJaSKA/s1362/Screenshot%20(275).png" width="800" />
-</p>
+
 
 
 
