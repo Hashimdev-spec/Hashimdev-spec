@@ -31,16 +31,16 @@ NEAR Blockchain  20 hrs 45 mins       ██████████████
 Other        7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
-## My Tech Stack
+
 
 <p align="center">
   <img alt="Hashimcodes" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUpMEiYHo2ooEJsgMPpNWd9bq1C1mAnaShN9cYYKg8D4Uicd7GbYe8iVarcZ53w9bA5nGUCmLXJlcfCIZT2p2jBTJFRsctRsuZXUxu1GlBtuGZz-Y3suvOomvlgFXs-fnNz7A5vX0WeORjXN5LO8oO5yYGykDDLw4WJIbZnQvtpRuJEy9WSS7Mz84Mbg/s512/logo.png" width="100" />
 </p>
 <h1 align="center">
-  Hashim Codes Dark Theme  --Vs Code
+ Blockchain Dapp/ Nft marketplace
 </h1>
 <p align="center">
-  A minimal and Elegant dark theme for VS Code.
+  Introducing my blockchain Dapp, a decentralized marketplace for buying, selling, and trading non-fungible tokens (NFTs). This platform allows users to connect their Dapp wallets, such as MetaMask or Trust Wallet, to easily interact with the marketplace. The Dapp runs on the Ethereum blockchain ensuring transparency and security in all transactions. Good for collectors, artists, & gamers!  🚀
 </p>
 <p align="center">
   <a href="https://app.netlify.com">
@@ -48,38 +48,19 @@ Other        7 mins          ░░░░░░░░░░░░░░░░░
   </a>
 </p>
 
-
 <p align="center">
-  <img alt="Hashimcodes" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQUqtmgmZwGhbSoNMnycnTqfuSP9XdXIYKn1dTvO-WeNtYKX6FTC6SP6j9p9AyQ0nAJuP0d34PW-0k9EiURb_R4PtZZp8UmLIAkcSxsE1RKwo6FkmU3ER0TXLVB3W_NCxC-XD5nYE0wkYBgT3LMgY7zgLnd0YHtem6WZBAkktbauiXI7yqpikxrmktOg/s1366/Screenshot%20(274).png" width="800" />
+  <img alt="Hashimcodes" src="https://github.com/Hashimdev-spec/SmartContracts/blob/master/meta.png?raw=true" width="800" />
 </p>
 
 
-## 🚀 Quick start
 
 
+<p align="center">
+  <img alt="Hashimcodes" src="https://github.com/Hashimdev-spec/SmartContracts/blob/master/metaw.png?raw=true" width="800" />
+</p>
 
 
-
-1.  **Install the Vs Code Theme.**
-
-
-## 🧐 What's inside?
-
-A quick look at the top-level files and directories you'll see in this project.
-
-  
-
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
+## 🚀 Blockchain
 
 
 
