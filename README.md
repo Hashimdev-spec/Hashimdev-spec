@@ -13,7 +13,7 @@
 <a href="https://discord.gg/">
   <img align="left" alt="Hashim's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://twitter.com/Hashimdev">
+<a href="https://twitter.com/Hashimdev1">
   <img align="left" alt="Hashimdev | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/hashim-aliyu-hashim-37bab2146/">
