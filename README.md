@@ -4,8 +4,8 @@
 
 
 # 💫 About Me:
-Hi, I'm Hashim😉 **Developer** and **Programmer** .
-I'm an detail-oriented frontend developer, and I like to develop in JavaScript.
+Hi, I'm Hashim😉 **Software Engineer** .
+I'm detail-oriented, and I like to develop in JavaScript,flutter and python
 I am passionate about **React**, **Svelte**, **Nextjs**, **TailWnd CSS**, **Node.js** and **Micro Frontend**.
 Currently, I'm looking to collaborate on open-source projects.
 Besides programming, I'm a foodie 🥗🥩🌮🍣 .
