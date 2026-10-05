@@ -5,7 +5,7 @@
 
 ## Hi, I'm Hashim 👋
 
-Software Engineer with 8+ years building web applications, specializing in JavaScript/TypeScript across the full stack. I focus on scalable frontend architecture, developer experience, and clean, maintainable code.
+Software Engineer with 10+ years building web applications, specializing in JavaScript/TypeScript across the full stack. I focus on scalable frontend architecture, developer experience, and clean, maintainable code.
 
 **Core stack:** React, Next.js, Svelte, Node.js, TailwindCSS, Flutter, Python
 **Also comfortable with:** PHP, micro-frontend architectures (Single-SPA), state management (Redux, Vuex)
