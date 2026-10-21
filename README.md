@@ -1,26 +1,31 @@
+<h1 align="center">Hi, I'm Hashim 👋</h1>
+
 <p align="center">
-<img src="Header.svg" />
+  Software engineer with 10+ years building for the web.<br>
+  I care about scalable frontend architecture, developer experience, and code that stays easy to read.
 </p>
 
+<p align="center">
+  <a href="https://YOUR-USERNAME.github.io">
+    <img src="preview.gif" alt="Interactive 3D globe of my tech stack" width="640">
+  </a>
+  <br>
+  <sub><a href="https://hashimdev-spec.github.io">Open the interactive 3D version</a> and drag to spin it.</sub>
+</p>
 
-## Hi, I'm Hashim 👋
+## Stack
 
-Software Engineer with 10+ years building web applications, specializing in JavaScript/TypeScript across the full stack. I focus on scalable frontend architecture, developer experience, and clean, maintainable code.
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,svelte,tailwind,flutter,py&perline=9" alt="React, Next.js, TypeScript, JavaScript, Node.js, Svelte, Tailwind, Flutter, Python">
+</p>
 
-**Core stack:** React, Next.js, Svelte, Node.js, TailwindCSS, Flutter, Python
-**Also comfortable with:** PHP, micro-frontend architectures (Single-SPA), state management (Redux, Vuex)
+Also comfortable with PHP, micro-frontends (Single-SPA), and state management (Redux, Vuex).
 
-Currently exploring open-source collaboration and refining my approach to system design and performance optimization.
+## Right now
 
-When I'm not coding, I'm probably trying a new restaurant or cooking something ambitious.
+- Contributing to open source
+- Going deeper on system design and performance optimization
 
+## Elsewhere
 
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-![Snake animation](https://github.com/kimitawanjohi/kimitawanjohi/raw/output/github-contribution-grid-snake.svg)
-
- 
----
-[![](https://visitcount.itsvg.in/api?id=smartCoDev0629&icon=2&color=0)](https://visitcount.itsvg.in)
+When I'm not coding, I'm trying a new restaurant or cooking something ambitious.
