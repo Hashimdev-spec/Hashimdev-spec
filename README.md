@@ -6,11 +6,11 @@
 </p>
 
 <p align="center">
-  <a href="https://YOUR-USERNAME.github.io">
+  <a href="https://Hashimdev.github.io">
     <img src="preview.gif" alt="Interactive 3D globe of my tech stack" width="640">
   </a>
   <br>
-  <sub><a href="https://hashimdev-spec.github.io">Open the interactive 3D version</a> and drag to spin it.</sub>
+  <sub><a href="https://hashimdev.github.io">Open the interactive 3D version</a> and drag to spin it.</sub>
 </p>
 
 ## Stack
