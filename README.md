@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://Hashimdev.github.io">
+  <a href="https://Hashimdev-spec.github.io">
     <img src="preview.gif" alt="Interactive 3D globe of my tech stack" width="640">
   </a>
   <br>
